@@ -51,17 +51,4 @@ Actualmente, soy estudiante de primer año del Ciclo Formativo de Grado Superior
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <a href="https://github.com/marce-23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marce-23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de marce-23" />
-  </a>
-  <a href="https://github.com/marce-23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marce-23&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por marce-23" />
-  </a>
-</p>
-
----
-
 <p align="center"><i>Si buscas un perfil junior motivado, con ganas de aprender rápido y con interés tanto en el desarrollo puro como en el mundo de los datos, ¡hablemos! 😊</i></p>
