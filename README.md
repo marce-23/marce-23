@@ -2,13 +2,13 @@
 <h3 align="center">Estudiante de 1º DAM | Apasionado por el Desarrollo Multiplataforma y el Análisis de Datos</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[Tu_Usuario_De_LinkedIn]">
+  <a href="https://linkedin.com/in/[Tu_Usuario_De_LinkedIn]" style="hidden">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/marce-23">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:[Tu_Correo_Electronico]">
+  <a href="mailto:maralgar8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
